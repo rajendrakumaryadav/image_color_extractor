@@ -1,19 +1,21 @@
 # Extract color using (league/color-extractor)
 ## Install
 
-Via Composer
+&rarr; &rarr; Via Composer
 
 ``` bash
 $ composer require league/color-extractor:0.3.*
 ```
 ### Image used for demonstration is available under **Creative Commons (CC)**
 
-Image Reference Link http://thefuturebuzz.com/2008/10/13/stunning-images-flickr-creative-commons/
+<em><strong>&rarr;  Image Reference Link : </strong> </em> <br/>
+http://thefuturebuzz.com/pics/creative%20commons/9.jpg
 
-![Used Image]
-(http://thefuturebuzz.com/pics/creative%20commons/9.jpg)
+<p>
+<img src="http://thefuturebuzz.com/pics/creative%20commons/9.jpg" width="100%" height="300px" alt="used image" style="border 1px solid gray" />
+</p>
 
-### CSS setup for grid like look and feel
+<h3>&rarr;  CSS setup for grid like look and feel</h3>
 
 ```css
 div.cell {
@@ -27,10 +29,9 @@ div.cell {
     color: darkkhaki;
 } 
 ```
-### Output: 
-![alt text][image]
+###  &rarr; Output:
+<p>
+    <img src="./output_partial.png" height="300px" width="100%" alt="Output Image">
+</p>
 
-[image]: "https://github.com/rajendrayadav96/image_color_extractor/blob/master/output_partial.png?raw=true" "Output of this project"
-
-
-#### Thanks
+####  Thanks :v:
