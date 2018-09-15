@@ -1,0 +1,14 @@
+body {
+    margin: 20px;
+    width: 95%;
+}
+div.cell {
+    border: 2px solid white;
+    display: inline-grid;
+    padding: 5px;
+    margin: 7px;
+    width: 100px;
+    text-align: center;
+    border-radius: 30%;
+    color: darkkhaki;
+}
