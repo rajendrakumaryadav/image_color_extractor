@@ -27,7 +27,10 @@ div.cell {
     color: darkkhaki;
 } 
 ```
-![Output Image]
-(output_partial.png)
+### Output: 
+![alt text][image]
+
+[image]: "https://github.com/rajendrayadav96/image_color_extractor/blob/master/output_partial.png" "Output of this project"
+
 
 #### Thanks
