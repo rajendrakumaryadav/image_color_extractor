@@ -30,7 +30,7 @@ div.cell {
 ### Output: 
 ![alt text][image]
 
-[image]: "https://github.com/rajendrayadav96/image_color_extractor/blob/master/output_partial.png" "Output of this project"
+[image]: "https://github.com/rajendrayadav96/image_color_extractor/blob/master/output_partial.png?raw=true" "Output of this project"
 
 
 #### Thanks
