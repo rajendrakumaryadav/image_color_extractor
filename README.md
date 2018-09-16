@@ -9,7 +9,7 @@ $ composer require league/color-extractor:0.3.*
 ```
 
 #### &rarr; Image used for demonstration is available under **Creative Commons (CC)**
-
+<p>
 <em><strong>&rarr;  Image Reference Link : </strong> </em> <br/>
 http://thefuturebuzz.com/pics/creative%20commons/9.jpg
 
@@ -17,7 +17,7 @@ http://thefuturebuzz.com/pics/creative%20commons/9.jpg
 <img src="http://thefuturebuzz.com/pics/creative%20commons/9.jpg" width="100%" alt="used image" style="border 1px solid gray" />
 </p>
 
-<h3>&rarr;  CSS setup for grid like look and feel</h3>
+## &rarr;  CSS setup for grid like look and feel
 
 ```css
 div.cell {
@@ -31,9 +31,10 @@ div.cell {
     color: darkkhaki;
 } 
 ```
-###  &rarr; Output:
+##  &rarr; Output:
+
 <p>
     <img src="./output_partial.png" width="100%" alt="Output Image">
 </p>
 
-####  Thanks :v:
+###  Thanks :v:
